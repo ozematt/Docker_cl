@@ -1,0 +1,2 @@
+exercises:
+    '01_Uruchomienie serwera HTTP w Dockerze z mapowaniem portów': { max_points: 0, disabled: true }

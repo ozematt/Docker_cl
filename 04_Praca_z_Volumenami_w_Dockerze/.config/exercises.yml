@@ -1,0 +1,3 @@
+exercises:
+    '01_Użycie Bind Mounts do współdzielenia danych między kontenerem a hostem': { max_points: 0, disabled: true }
+    '02_Implementacja trwałego przechowywania danych z użyciem volumenów w Dockerze': { max_points: 0, disabled: true }

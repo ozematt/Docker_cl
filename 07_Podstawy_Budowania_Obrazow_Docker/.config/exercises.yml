@@ -1,0 +1,3 @@
+exercises:
+    '01_Tworzenie prostego Dockerfile': { max_points: 0, disabled: true }
+    '02_Budowanie obrazu Dockerowego z narzędziami diagnostycznymi i Docker Compose': { max_points: 0, disabled: true }

@@ -1,0 +1,2 @@
+exercises:
+    '01_Pierwsze kroki z Docker Compose i PostgreSQL': { max_points: 0, disabled: true }

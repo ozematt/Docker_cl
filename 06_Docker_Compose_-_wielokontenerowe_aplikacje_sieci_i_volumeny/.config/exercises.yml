@@ -1,0 +1,3 @@
+exercises:
+    '01_Konfiguracja prostego stacku aplikacji z Nginx i bazą danych': { max_points: 0, disabled: true }
+    '02_Aplikacja Wordpress z bazą danych MySQL': { max_points: 0, disabled: true }
